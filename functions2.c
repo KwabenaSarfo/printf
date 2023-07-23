@@ -1,6 +1,6 @@
 #include "main.h"
 
-/****************** PRINT POINTER ******************/
+/****************** PRINT POINTER *******************/
 /**
  * print_pointer - This project prints the value of a pointer variable
  * @types: arguments
