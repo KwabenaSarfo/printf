@@ -2,7 +2,7 @@
 
 /************************* WRITE HANDLE *************************/
 /**
- * handle_write_char - This project prints a string
+ * handle_write_char - This project prints a string.
  * @c: char.
  * @buffer: Buffer array.
  * @flags:  Calculates active flags.
