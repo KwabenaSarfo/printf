@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_flags - This project prints calculates active flags
+ * get_flags - This project prints calculates active flags.
  * @format: Formatted string in which to print.
  * @i: take a parameter.
  * Return: Flags
