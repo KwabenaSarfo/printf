@@ -3,7 +3,7 @@
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
- * _printf - This project is a Printf function
+ * _printf - This project is a Printf function.
  * @format: format.
  * Return: Printed chars.
  */
@@ -53,7 +53,7 @@ int _printf(const char *format, ...)
 }
 
 /**
- * print_buffer - This project prints the contents of the buffer if it exist
+ * print_buffer - This project prints the contents of the buffer if it exist.
  * @buffer: Array chars
  * @buff_ind: Index at which to add char, represents the length.
  */
