@@ -1,1 +1,2 @@
 This is a group project in C - printf
+Done by Kwabena and Michael
