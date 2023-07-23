@@ -3,7 +3,7 @@
 /************************* PRINT CHAR *************************/
 
 /**
- * print_char - This project prints char
+ * print_char - This project prints char.
  * @types: arguments
  * @buffer: Buffer array
  * @flags: active flags
