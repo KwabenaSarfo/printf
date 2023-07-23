@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_precision - This project calculates the precision for printing
+ * get_precision - This project calculates the precision for printing.
  * @format: Formatted arguments
  * @i: list of arguments to be printed.
  * @list: list arguments.
