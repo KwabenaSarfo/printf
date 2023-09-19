@@ -1,2 +1,2 @@
-This is a group project in C - printf
-Done by Kwabena and Michael
+This is a group project work in C - printf
+Which was done by Kwabena and Michael
